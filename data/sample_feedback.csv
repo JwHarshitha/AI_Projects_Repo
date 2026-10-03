@@ -1,0 +1,122 @@
+text,date,source,category
+"The product build quality is absolutely exceptional and exceeded all expectations. However the shipping took nearly two weeks.",2025-05-01,Website,Product
+"Customer support was incredibly patient and resolved our enterprise billing dispute within minutes. Truly world-class service!",2025-05-01,Email,Customer Support
+"Delivery was remarkably fast and packaged with eco-friendly materials. Arrived two days early in pristine condition.",2025-05-02,Google Review,Delivery
+"The new mobile app interface is super slick, intuitive, and the dark mode is gorgeous. Huge improvement over v2.",2025-05-02,App Review,Mobile App
+"Terrible experience. The software crashed repeatedly during checkout and our card was charged twice without confirmation.",2025-05-03,Website,Website
+"Pricing has become far too steep for small businesses. The recent 40% subscription hike forced our team to evaluate alternatives.",2025-05-03,Survey,Pricing
+"I am blown away by the response time of the support rep. Sarah helped migrate all our historical data without any downtime.",2025-05-04,Email,Customer Support
+"The package arrived completely damaged and soaked in water. Courier dropped it on the sidewalk and left without ringing.",2025-05-04,Google Review,Delivery
+"Decent product overall. Does the job as advertised, though the initial onboarding tutorial was slightly confusing and lengthy.",2025-05-05,Survey,Product
+"Battery life and performance on the new version are stellar. It handles heavy analytical workloads without breaking a sweat.",2025-05-05,Website,Product
+"Extremely disappointed with the lack of communication regarding delayed shipments. No tracking updates for five consecutive days.",2025-05-06,Google Review,Delivery
+"The checkout process on the website is seamless. Apple Pay integration made purchasing literally a two-second task.",2025-05-06,Website,Website
+"Support team refused to refund an accidental double renewal despite contacting them within one hour. Unacceptable policy.",2025-05-07,Email,Customer Support
+"The mobile app keeps freezing on the analytics dashboard screen whenever I filter by date range. Please release a hotfix.",2025-05-07,App Review,Mobile App
+"Great value for money compared to Salesforce or HubSpot. All essential enterprise features at a fraction of the cost.",2025-05-08,Survey,Pricing
+"The sound quality and noise cancellation are magnificent. By far the best headphones I have owned in the last five years.",2025-05-08,Website,Product
+"Package was delivered to the wrong apartment building across the street. Luckily an honest neighbor brought it over.",2025-05-09,Google Review,Delivery
+"Customer service agent seemed completely untrained and kept transferring me back and forth between three different departments.",2025-05-09,Email,Customer Support
+"The web platform is remarkably fast and responsive. Search queries return complex sentiment aggregations almost instantaneously.",2025-05-10,Website,Website
+"Transparent tier pricing without hidden fees. Very refreshing to see predictable monthly invoices with no surprise overages.",2025-05-10,Survey,Pricing
+"Mobile app push notifications are malfunctioning and spamming alert vibrations multiple times every single hour.",2025-05-11,App Review,Mobile App
+"The materials feel cheap and plasticky, unlike what was shown in the promotional product renders. Will be returning.",2025-05-11,Website,Product
+"Our courier driver was courteous and handled the fragile package with immense care. Highest commendation!",2025-05-12,Google Review,Delivery
+"Support representative Alex went above and beyond to write a custom webhook script to integrate with our Slack channel.",2025-05-12,Email,Customer Support
+"Search filter on the website does not remember selected tags when navigating backward. Annoying UX oversight.",2025-05-13,Website,Website
+"Hidden renewal charges after the introductory tier ended without prior email notice. Felt like a deceptive tactic.",2025-05-13,Survey,Pricing
+"Clean, minimalist layout in the iOS app. Navigation is smooth and transitions feel like a native Apple experience.",2025-05-14,App Review,Mobile App
+"The device stopped powering on after only three weeks of moderate use. Quality assurance clearly dropped the ball.",2025-05-14,Website,Product
+"Delivery arrived right on time on a Sunday afternoon. Real-time GPS driver tracking worked like a charm.",2025-05-15,Google Review,Delivery
+"Waited 45 minutes on hold listening to repetitive elevator music before the call abruptly disconnected. Frustrating!",2025-05-15,Email,Customer Support
+"Solid product with reliable uptime. Has been running in production for three months straight with zero crashes.",2025-05-16,Website,Product
+"The annual discount plan makes this an unbeatable deal for growth-stage startups looking for sentiment intelligence.",2025-05-16,Survey,Pricing
+"App crashes immediately on startup after the latest iOS 18 update. Reinstalling did not fix the problem.",2025-05-17,App Review,Mobile App
+"The website layout is cluttered and difficult to read on smaller laptop displays. Text overlaps in the report view.",2025-05-17,Website,Website
+"Shipping box arrived crushed and the interior foam padding was missing. Two glass components were shattered.",2025-05-18,Google Review,Delivery
+"Very empathetic and attentive customer care. They promptly issued an apology credit and expedited replacement parts.",2025-05-18,Email,Customer Support
+"The ergonomics of the handle are wonderful. Comfortable to hold for extended sessions without causing wrist fatigue.",2025-05-19,Website,Product
+"High price tag is justifiable given the sheer precision of the classification models and breadth of analytical tools.",2025-05-19,Survey,Pricing
+"The tablet app layout is well optimized for split-screen multitasking. Really enhances analyst productivity.",2025-05-20,App Review,Mobile App
+"Website navigation is intuitive and finding API documentation was effortless. Kudos to the developer experience team.",2025-05-20,Website,Website
+"Driver threw the parcel over our 6-foot backyard fence into the rain instead of placing it under the covered porch.",2025-05-21,Google Review,Delivery
+"Support ticket took four days just to receive an automated boilerplate template that didn't even address my question.",2025-05-21,Email,Customer Support
+"The firmware update completely bricked my unit. Now it is stuck in an endless boot cycle and totally unresponsive.",2025-05-22,Website,Product
+"Competitive pricing structures and generous free tier quotas allow our university lab to test without financial burden.",2025-05-22,Survey,Pricing
+"Offline mode in the mobile app works flawlessly. Synced all my cached feedback entries the moment WiFi reconnected.",2025-05-23,App Review,Mobile App
+"Page load speeds on the dashboard are sluggish during peak morning hours. Takes over 8 seconds to load tables.",2025-05-23,Website,Website
+"Package was scheduled for Friday delivery but sat in the local depot all weekend without explanation.",2025-05-24,Google Review,Delivery
+"The chat agent was kind, thoughtful, and walked me step-by-step through generating executive PDF reports.",2025-05-24,Email,Customer Support
+"Exceptional attention to detail in the packaging, hardware finish, and cable braiding. Feels like luxury tier hardware.",2025-05-25,Website,Product
+"Add-on seats are exorbitantly priced. Cost per additional team member makes scaling collaboration unaffordable.",2025-05-25,Survey,Pricing
+"Biometric FaceID login on the app works instantly. Security settings are clear and easy to manage.",2025-05-26,App Review,Mobile App
+"404 error repeatedly occurs when clicking 'Export CSV' from the batch results page on Chrome. Please investigate.",2025-05-26,Website,Website
+"Courier handed the package directly to me with a warm smile and verified the recipient name. Professional service!",2025-05-27,Google Review,Delivery
+"Support engineer scheduled a Google Meet video screen-share to troubleshoot our complex webhook integration. Top notch!",2025-05-27,Email,Customer Support
+"The product is average. It performs standard sentiment tags adequately, but struggles on nuanced sarcasm and idioms.",2025-05-28,Survey,Product
+"Freemium limitations feel overly punitive. You hit the monthly limit within ten minutes of exploratory testing.",2025-05-28,Survey,Pricing
+"Widget customization in the iOS app is top-tier. I can monitor live sentiment KPIs right on my iPhone home screen.",2025-05-29,App Review,Mobile App
+"Clean modern SaaS design on the website. High contrast dark theme makes long hours of data analysis painless on the eyes.",2025-05-29,Website,Website
+"Estimated delivery was missed by three business days with zero notification or tracking updates provided.",2025-05-30,Google Review,Delivery
+"Support team resolved my billing question within 5 minutes over live chat. Thoroughly impressed with the speed.",2025-05-30,Email,Customer Support
+"Outstanding build quality! Aluminum chassis feels rock solid and heat dissipation is virtually silent.",2025-05-31,Website,Product
+"The price to performance ratio is hands down the best in the market. Saves our agency over 15 hours every week.",2025-05-31,Survey,Pricing
+"App regularly desyncs from the server and requires logging in again every morning. Very tedious bug.",2025-06-01,App Review,Mobile App
+"Website responsive layout breaks on iPad in portrait mode. The sidebar overlaps with the main analytics chart.",2025-06-01,Website,Website
+"Package arrived soaking wet because the courier dumped it in the lawn sprinkler spray. Box was ruined.",2025-06-02,Google Review,Delivery
+"I have never encountered such unhelpful support staff. They closed my ticket as resolved without fixing the bug.",2025-06-02,Email,Customer Support
+"The product exceeded all my benchmarks. Processing 50,000 customer reviews took less than 45 seconds.",2025-06-03,Website,Product
+"Cost structure is totally transparent. No sneaky per-request surcharges or surprise egress bandwidth fees.",2025-06-03,Survey,Pricing
+"The dark mode toggle in the mobile app creates weird white borders around chart widgets. Needs polish.",2025-06-04,App Review,Mobile App
+"SSL certificate error popped up briefly on the checkout portal. Made me nervous about entering credit card info.",2025-06-04,Website,Website
+"Express delivery was worth every single dollar. Ordered at 9 PM and package arrived before noon the following day.",2025-06-05,Google Review,Delivery
+"Representative Marcus was so polite and even followed up two days later to ensure our batch pipeline was running smoothly.",2025-06-05,Email,Customer Support
+"The mechanical key switches feel mushy and uneven. Two keys stopped registering keystrokes after only one week.",2025-06-06,Website,Product
+"Monthly enterprise tiers are too rigid. A pay-as-you-go credit model would be much more accessible for seasonal surges.",2025-06-06,Survey,Pricing
+"Interactive drill-down on the mobile charts is butter smooth. Pinch-to-zoom on sentiment trends works great.",2025-06-07,App Review,Mobile App
+"Navigation bar links on the website are crisp and fast. Transition animations between pages feel snappy.",2025-06-07,Website,Website
+"Delivery driver left the parcel in the middle of our driveway where cars pull in. Nearly ran it over with my car.",2025-06-08,Google Review,Delivery
+"Automated AI chatbot got stuck in an infinite loop and would not connect me to a human representative.",2025-06-08,Email,Customer Support
+"The accuracy on multilingual sentiment analysis is remarkably high. Handled Spanish and French reviews effortlessly.",2025-06-09,Website,Product
+"The bulk subscription pricing for schools and non-profits is generous and commendable. Very appreciated!",2025-06-09,Survey,Pricing
+"Push notifications consistently lag by 15-20 minutes on Android devices. Critical alerts come too late.",2025-06-10,App Review,Mobile App
+"Website search bar doesn't support fuzzy search or typo correction. If you misspell one letter it gives 0 results.",2025-06-10,Website,Website
+"Superb logistics. Tracking updates were granular down to the local delivery van mile marker. Arrived in perfect state.",2025-06-11,Google Review,Delivery
+"Support specialist was very knowledgeable about the REST API schema and provided working curl examples within minutes.",2025-06-11,Email,Customer Support
+"The product is decent but documentation is lacking in depth. Had to inspect network payloads to understand data models.",2025-06-12,Website,Product
+"Way overpriced for the limited set of features currently offered. Competitors provide emotion analytics for half this price.",2025-06-12,Survey,Pricing
+"The mobile app's export to CSV function works reliably and attaches cleanly to email drafts.",2025-06-13,App Review,Mobile App
+"User onboarding flow on the web is delightfully straightforward. Took less than three minutes to analyze our first dataset.",2025-06-13,Website,Website
+"Shipping delay notice was sent only after the promised delivery deadline had already passed. Poor communication.",2025-06-14,Google Review,Delivery
+"Customer service resolved an incorrect invoice within twenty minutes and credited our account immediately.",2025-06-14,Email,Customer Support
+"Flawless industrial design. The anodized finish resists fingerprints and feels exceptionally durable.",2025-06-15,Website,Product
+"Enterprise contract terms are flexible and the per-seat volume tiers scaled down nicely for our department.",2025-06-15,Survey,Pricing
+"The app consumes excessive battery in the background even when notifications are disabled. Drained 25% overnight.",2025-06-16,App Review,Mobile App
+"Sign up page validation error messages are cryptic and unhelpful when creating a password.",2025-06-16,Website,Website
+"Delivery was ahead of schedule by an entire week! Package arrived tightly sealed with protective bubble wrap.",2025-06-17,Google Review,Delivery
+"Agent closed my ticket without providing any explanation or solution. Had to reopen a second ticket from scratch.",2025-06-17,Email,Customer Support
+"The AI sentiment classification accuracy is top notch. It successfully detected nuanced frustration in passive-aggressive reviews.",2025-06-18,Website,Product
+"Hidden currency conversion charges bumped up the final subscription price by 12%. Need localized regional pricing.",2025-06-18,Survey,Pricing
+"The biometric authentication on Android fingerprint reader works flawlessly every time.",2025-06-19,App Review,Mobile App
+"Documentation pages on the website render beautifully on high DPI monitors with crisp diagrams and code snippets.",2025-06-19,Website,Website
+"Delivery was marked as 'Handed to resident' but no one was home and the box was nowhere to be found outside.",2025-06-20,Google Review,Delivery
+"Fast, friendly, and competent technical support. Solved our SSO SAML configuration issue on the very first call.",2025-06-20,Email,Customer Support
+"The product casing creaks under slight pressure and feels noticeably flimsy. Not worth the premium retail price.",2025-06-21,Website,Product
+"Reasonable pricing plans with an accessible starter tier. Made it easy to convince management to adopt.",2025-06-21,Survey,Pricing
+"Mobile dashboard widgets freeze up when switching between cellular and WiFi connections.",2025-06-22,App Review,Mobile App
+"Website cookie banner covers the navigation footer and cannot be dismissed on Safari mobile.",2025-06-22,Website,Website
+"Delivery arrived in pristine condition right to our front door. Driver was respectful and punctual.",2025-06-23,Google Review,Delivery
+"Customer service representative genuinely listened to our feedback and escalated our feature request to product engineers.",2025-06-23,Email,Customer Support
+"The system's aspect-based extraction is surprisingly intelligent. It accurately split praise for speed from critique of cost.",2025-06-24,Website,Product
+"The price hike was announced with barely a week's notice. Highly unprofessional handling of loyal early adopters.",2025-06-24,Survey,Pricing
+"Haptic feedback on mobile interactions feels crisp and rewarding. The UI feels like a native iOS masterpiece.",2025-06-25,App Review,Mobile App
+"Dashboard loading state has a slick shimmer skeleton effect that makes the UI feel fast and polished.",2025-06-25,Website,Website
+"Courier dumped the heavy parcel on top of our delicate garden flowers. Completely crushed several prized plants.",2025-06-26,Google Review,Delivery
+"Support email response was instantaneous and included a clear animated GIF demonstrating the exact solution.",2025-06-26,Email,Customer Support
+"The build craftsmanship is truly remarkable. Every seam and screw fits with micrometer precision.",2025-06-27,Website,Product
+"The annual billing option gives two months free, which provides tremendous cost savings for our team.",2025-06-27,Survey,Pricing
+"App crash reports are not handled gracefully; screen just goes black without any error dialog.",2025-06-28,App Review,Mobile App
+"Web app analytics charts render with sharp vector graphics and interactive hover tooltips that make analysis enjoyable.",2025-06-28,Website,Website
+"Parcel arrived on time and was wrapped in weatherproof plastic wrap to protect against rain.",2025-06-29,Google Review,Delivery
+"Help desk team was unresponsive over the weekend despite our plan including 24/7 priority support.",2025-06-29,Email,Customer Support
+"Excellent tool for our brand reputation audits. Categorization of topics and sentiment trends is reliable and fast.",2025-06-30,Website,Product

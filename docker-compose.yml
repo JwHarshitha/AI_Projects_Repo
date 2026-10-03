@@ -1,0 +1,30 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: ../docker/Dockerfile.backend
+    container_name: sentinel-backend
+    ports:
+      - "8000:8000"
+    environment:
+      - SECRET_KEY=sentinel-ai-super-secret-production-key-2025-secure
+      - DATABASE_URL=sqlite:///sentinel.db
+      - SEED_DEMO_DATA=True
+    volumes:
+      - ./backend/sentinel.db:/app/sentinel.db
+      - ./backend/uploads:/app/uploads
+      - ./data:/data
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: ../docker/Dockerfile.frontend
+    container_name: sentinel-frontend
+    ports:
+      - "3000:80"
+    depends_on:
+      - backend
+    restart: unless-stopped

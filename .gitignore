@@ -1,0 +1,27 @@
+# Node
+node_modules/
+dist/
+.vite/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+*.egg-info/
+.pytest_cache/
+
+# Databases & Uploads
+backend/uploads/*
+!backend/uploads/.gitkeep
+backend/sentinel.db
+backend/sentinel.db-journal
+
+# OS
+.DS_Store
+Thumbs.db
